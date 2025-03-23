@@ -73,13 +73,7 @@ git clone <repo-url>
 pip install -r requirements.txt
 3.	Set up your Kaggle API, download the data, and follow the steps to load and analyze.
  
-data/                     # Raw data and transformed data
-sql_queries/              # SQL scripts for analysis and queries
-notebooks/                # Jupyter notebooks for Python analysis
-README.md                 # Project documentation
-requirements.txt          # List of required Python libraries
-main.py                   # Main script for loading, cleaning, and processing data
-
+data/ # Raw data and transformed data sql_queries/ # SQL scripts for analysis and queries notebooks/ # Jupyter notebooks for Python analysis README.md # Project documentation requirements.txt # List of required Python libraries main.py # Main script for loading, cleaning, and processing data
  
 ## Results and Insights
 This section will include your analysis findings:
