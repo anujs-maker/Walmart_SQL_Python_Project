@@ -1,0 +1,9 @@
+{
+  "raw_rows": 10051,
+  "clean_rows": 9969,
+  "duplicate_rows_removed": 51,
+  "incomplete_rows_removed": 31,
+  "branch_count": 100,
+  "currency": "unspecified",
+  "notes": "Profit is derived from the supplied profit_margin field; not audited accounting profit."
+}
