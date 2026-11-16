@@ -1,0 +1,4 @@
+payment_method,transactions,units_sold,revenue
+Cash,1832,4984,263589.29
+Credit card,4256,9567,488821.02
+Ewallet,3881,8932,457316.07
